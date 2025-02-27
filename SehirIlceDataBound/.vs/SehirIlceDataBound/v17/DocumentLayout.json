@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A62C26E-5D22-4170-B22D-F41B91875998}|SehirIlceWebApp\\SehirIlceWebApp.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\sehirilcewebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A62C26E-5D22-4170-B22D-F41B91875998}|SehirIlceWebApp\\SehirIlceWebApp.csproj|solutionrelative:sehirilcewebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A62C26E-5D22-4170-B22D-F41B91875998}|SehirIlceWebApp\\SehirIlceWebApp.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\sehirilcewebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A62C26E-5D22-4170-B22D-F41B91875998}|SehirIlceWebApp\\SehirIlceWebApp.csproj|solutionrelative:sehirilcewebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7C2DE-42FD-45ED-8DAE-1288F71E2F88}|SehirIlceWinForm\\SehirIlceWinForm.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7C2DE-42FD-45ED-8DAE-1288F71E2F88}|SehirIlceWinForm\\SehirIlceWinForm.csproj|solutionrelative:sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D41D88-50B9-4A1A-9778-B5934D5C7CD1}|DataAccessLayer\\DataAccessLayer.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D41D88-50B9-4A1A-9778-B5934D5C7CD1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D41D88-50B9-4A1A-9778-B5934D5C7CD1}|DataAccessLayer\\DataAccessLayer.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\dataaccesslayer\\ilce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D41D88-50B9-4A1A-9778-B5934D5C7CD1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ilce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7C2DE-42FD-45ED-8DAE-1288F71E2F88}|SehirIlceWinForm\\SehirIlceWinForm.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDF7C2DE-42FD-45ED-8DAE-1288F71E2F88}|SehirIlceWinForm\\SehirIlceWinForm.csproj|solutionrelative:sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D41D88-50B9-4A1A-9778-B5934D5C7CD1}|DataAccessLayer\\DataAccessLayer.csproj|d:\\repos\\sehirilcedatabound\\sehirilcedatabound\\dataaccesslayer\\sehir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D41D88-50B9-4A1A-9778-B5934D5C7CD1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\sehir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWebApp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "SehirIlceWebApp\\Default.aspx.cs",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWebApp\\Default.aspx.cs",
+              "RelativeToolTip": "SehirIlceWebApp\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:28:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWebApp\\Default.aspx",
+              "RelativeDocumentMoniker": "SehirIlceWebApp\\Default.aspx",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWebApp\\Default.aspx",
+              "RelativeToolTip": "SehirIlceWebApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T19:26:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "SehirIlceWinForm\\Form1.cs",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWinForm\\Form1.cs",
+              "RelativeToolTip": "SehirIlceWinForm\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vyUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:15:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "SehirIlceWinForm\\Form1.cs",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\SehirIlceWinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "SehirIlceWinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:13:09.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ilce.cs",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\DataAccessLayer\\Ilce.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Ilce.cs",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\DataAccessLayer\\Ilce.cs",
+              "RelativeToolTip": "DataAccessLayer\\Ilce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:55:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sehir.cs",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\DataAccessLayer\\Sehir.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Sehir.cs",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\DataAccessLayer\\Sehir.cs",
+              "RelativeToolTip": "DataAccessLayer\\Sehir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:54:26.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "D:\\repos\\SehirIlceDataBound\\SehirIlceDataBound\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:41:07.738Z",
+              "EditorCaption": ""
             }
           ]
         }

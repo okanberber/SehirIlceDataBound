@@ -1,0 +1,13 @@
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\bin\Debug\SehirIlceWinForm.exe.config
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\bin\Debug\SehirIlceWinForm.exe
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\bin\Debug\SehirIlceWinForm.pdb
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\bin\Debug\DataAccessLayer.dll
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\bin\Debug\DataAccessLayer.pdb
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.csproj.AssemblyReference.cache
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.Form1.resources
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.Properties.Resources.resources
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.csproj.GenerateResource.cache
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.csproj.CoreCompileInputs.cache
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlc.16467406.Up2Date
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.exe
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\SehirIlceWinForm\obj\Debug\SehirIlceWinForm.pdb

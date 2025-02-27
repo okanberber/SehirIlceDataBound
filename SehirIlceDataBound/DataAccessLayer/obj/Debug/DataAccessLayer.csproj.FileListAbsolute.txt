@@ -1,0 +1,6 @@
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\repos\SehirIlceDataBound\SehirIlceDataBound\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
